@@ -1,0 +1,51 @@
+_repo: The-Montessori-MethodAuthor_39863
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Holmes, Henry W. (Henry Wyman)
+    birthdate: 1880
+    deathdate: 1960
+    gutenberg_agent_id: '40250'
+    url: http://www.gutenberg.org/2009/agents/40250
+  translator:
+    agent_name: George, Anne E.
+    alias: George, Anne Everett
+    birthdate: 1882
+    gutenberg_agent_id: '40272'
+    url: http://www.gutenberg.org/2009/agents/40272
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Montessori, Maria
+    birthdate: 1870
+    deathdate: 1952
+    gutenberg_agent_id: '26701'
+    url: http://www.gutenberg.org/2009/agents/26701
+    wikipedia:
+    - http://it.wikipedia.org/wiki/Maria_Montessori
+    - http://en.wikipedia.org/wiki/Maria_Montessori
+description: Front Cover; Title Page; Copyright; Contents; Preface to the American
+  Edition; Introduction; A Critical Consideration of the New Pedagogy in its Relation
+  to Modern Science; History of Methods; Inaugural Address Delivered on the Occasion
+  O F the Opening of One of the "Children's Houses"; Pedagogical Methods Used in the
+  "Children's Houses"; Discipline; How the Lessons Should Be Given; Exercises of Practical
+  Life; Refection-the Child's Diet; Muscular Education-Gymnastics; Nature in Education-Agricultural
+  Labour; Culture of Plants and Animals; Manual Labour-the Potter's Art, and Building.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2012-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39863'
+  lccn: '12008807'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Montessori method of education'
+- !lcc 'LB'
+title: "The Montessori Method\r\nScientific Pedagogy as Applied to Child Education\
+  \ in 'The Children's Houses' with Additions and Revisions by the Author"
+url: http://www.gutenberg.org/ebooks/39863
